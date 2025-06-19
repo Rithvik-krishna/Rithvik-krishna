@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rithvik Krishna D K</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rithvik-krishna&label=Profile%20views&color=0e75b6&style=flat" alt="rithvik-krishna" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rithvik-krishna&label=Profile%20views&color=0e75b6&style=flat" alt="rithvik-krishna" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rithvik-krishna" alt="rithvik-krishna" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rithvik-krishna" alt="rithvik-krishna" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rithvikkrishna3" target="blank"><img src="https://img.shields.io/twitter/follow/rithvikkrishna3?logo=twitter&style=for-the-badge" alt="rithvikkrishna3" /></a> </p>
+<p align="center"> <a href="https://twitter.com/rithvikkrishna3" target="blank"><img src="https://img.shields.io/twitter/follow/rithvikkrishna3?logo=twitter&style=for-the-badge" alt="rithvikkrishna3" /></a> </p>
 
-- 🔭 I’m currently working on **XChange**
-
-- 👨‍💻 All of my projects are available at [https://rithviksportfolio.netlify.app/](https://rithviksportfolio.netlify.app/)
+### ⚡ Real-Time Stats:
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rithvik-krishna&show_icons=true&locale=en&layout=compact" alt="rithvik-krishna" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rithvik-krishna&show_icons=true&locale=en" alt="rithvik-krishna" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,9 +26,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rithvik4774"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rithvik4774" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rithvik-krishna&show_icons=true&locale=en&layout=compact" alt="rithvik-krishna" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rithvik-krishna&show_icons=true&locale=en" alt="rithvik-krishna" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rithvik-krishna&" alt="rithvik-krishna" /></p>
