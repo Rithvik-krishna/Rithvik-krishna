@@ -2,9 +2,23 @@
 
 ![](https://komarev.com/ghpvc/?username=Rithvik-krishna&style=for-the-badge&color=brightgreen)
 
+<br></br>
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Rithvik-krishna&theme=radical&no-frame=true&no-bg=true&margin-w=8)
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=Rithvik-krishna&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://streak-stats.demolab.com/?user=Rithvik-krishna&theme=dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rithvik-krishna&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+
+</div>
 
 # 💻 Tech Stack
 
@@ -35,28 +49,17 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.shion.dev/api?username=Rithvik-krishna&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://streak-stats.demolab.com/?user=Rithvik-krishna&theme=dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rithvik-krishna&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
-
-</div>
-
-## 🌐 Socials
+<br></br>
+# 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rithvik4774)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rithvikkrishnadk)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rithvikkrishna3)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rithvikkrishnadk@gmail.com)
-
-## 💰 Support Me
+<br></br>
+# 💰 Support Me
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rithvik4774)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/scaleupco)
-
+<br></br>
 </div>
